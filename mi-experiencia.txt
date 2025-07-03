@@ -1,0 +1,16 @@
+a) ¿Qué te gustó de cada plataforma?
+- GitHub: Me gustó su interfaz sencilla, la popularidad de la plataforma y su integración con herramientas como GitHub Actions.
+- GitLab: Me gustó que ofrece integración continua (CI/CD) incluso en repositorios privados y más control de configuración.
+
+b) ¿Qué diferencias encontraste durante la subida y manejo del proyecto?
+- GitHub fue más simple para iniciar, especialmente por la interfaz web.
+- GitLab requirió algunos pasos adicionales y ajustes, pero ofrece más opciones avanzadas.
+
+c) ¿En cuál de las dos plataformas te sentiste más cómodo trabajando y por qué?
+- Me sentí más cómodo en GitHub porque ya la conocía y es más utilizada en la comunidad, lo cual facilita encontrar ayuda y tutoriales.
+
+d) ¿Qué características crees que podrían mejorar en cada una?
+- GitHub podría mejorar su soporte de CI/CD para usuarios gratuitos.
+- GitLab podría simplificar un poco su interfaz para nuevos usuarios.
+
+
